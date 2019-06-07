@@ -3,3 +3,4 @@ node {
        deleteDir()
        checkout scm
    }
+}
